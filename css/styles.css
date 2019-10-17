@@ -3,3 +3,10 @@
   background-color: teal;
   color: crimson;
 }
+
+.col-md-3 {
+  border: 1px solid blue;
+  background-color: cornflowerblue;
+  margin-left: 10px;
+  margin-right: 10px
+}
